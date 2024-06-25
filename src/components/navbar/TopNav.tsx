@@ -14,7 +14,7 @@ export default function TopNav() {
                 'text-xl',
                 'text-white',
                 'uppercase',
-                'data-[active=true]:text-yellow-200'
+                'data-[active=true]:text-yellow-300'
             ]
         }}
     >
